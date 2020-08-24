@@ -1,6 +1,6 @@
 package igra;
 
-import java.awt.BorderLayout;
+import java.awt.*;
 import java.awt.Button;
 import java.awt.Checkbox;
 import java.awt.CheckboxGroup;

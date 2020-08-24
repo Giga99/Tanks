@@ -1,6 +1,6 @@
 package igra;
 
-import java.awt.Color;
+import java.awt.*;
 import java.awt.Graphics;
 
 public class Novcic extends Figura {

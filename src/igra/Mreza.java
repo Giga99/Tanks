@@ -1,6 +1,6 @@
 package igra;
 
-import java.awt.GridLayout;
+import java.awt.*;
 import java.awt.Panel;
 import java.util.ArrayList;
 

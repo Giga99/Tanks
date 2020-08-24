@@ -1,6 +1,6 @@
 package igra;
 
-import java.awt.Color;
+import java.awt.*;
 
 public class Zid extends Polje {
 

@@ -1,7 +1,7 @@
 package igra;
 
 public abstract class Figura {
-	private Polje polje;
+	Polje polje;
 
 	public Figura(Polje polje) {
 		super();

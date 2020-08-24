@@ -1,7 +1,6 @@
 package igra;
 
-import java.awt.Color;
-import java.awt.Graphics;
+import java.awt.*;
 
 public class Tenk extends Figura implements Runnable {
 	private Thread nit;
